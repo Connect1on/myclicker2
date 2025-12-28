@@ -1,0 +1,25 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Fonts","order":6,"path":"folders/Fonts.yy",},
+    {"name":"Objects","order":4,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":1,"path":"folders/Rooms.yy",},
+    {"name":"Sprites","order":3,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"fn_usualx3","order":1,"path":"fonts/fn_usualx3/fn_usualx3.yy",},
+    {"name":"obj_brain","order":1,"path":"objects/obj_brain/obj_brain.yy",},
+    {"name":"obj_button_blue","order":9,"path":"objects/obj_button_blue/obj_button_blue.yy",},
+    {"name":"obj_button_upgrade_auto_1","order":5,"path":"objects/obj_button_upgrade_auto_1/obj_button_upgrade_auto_1.yy",},
+    {"name":"obj_button_upgrade_auto_2","order":6,"path":"objects/obj_button_upgrade_auto_2/obj_button_upgrade_auto_2.yy",},
+    {"name":"obj_button_upgrade_auto_3","order":7,"path":"objects/obj_button_upgrade_auto_3/obj_button_upgrade_auto_3.yy",},
+    {"name":"obj_button_upgrade1","order":3,"path":"objects/obj_button_upgrade1/obj_button_upgrade1.yy",},
+    {"name":"obj_button_upgrade2","order":4,"path":"objects/obj_button_upgrade2/obj_button_upgrade2.yy",},
+    {"name":"obj_button_upgrade3","order":8,"path":"objects/obj_button_upgrade3/obj_button_upgrade3.yy",},
+    {"name":"obj_button_upgrade4","order":10,"path":"objects/obj_button_upgrade4/obj_button_upgrade4.yy",},
+    {"name":"obj_clicks","order":2,"path":"objects/obj_clicks/obj_clicks.yy",},
+    {"name":"spr_button_grey","order":1,"path":"sprites/spr_button_grey/spr_button_grey.yy",},
+    {"name":"spr_button_rentagle_green","order":4,"path":"sprites/spr_button_rentagle_green/spr_button_rentagle_green.yy",},
+    {"name":"spr_button_rentagle","order":3,"path":"sprites/spr_button_rentagle/spr_button_rentagle.yy",},
+    {"name":"spr_finger","order":2,"path":"sprites/spr_finger/spr_finger.yy",},
+  ],
+}
